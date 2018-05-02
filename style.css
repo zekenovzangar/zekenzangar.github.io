@@ -1,0 +1,17 @@
+#car {color: purple;}
+.qwert {color:yellow;}
+p {
+  color: red;
+  font-family: 'Gugi', cursive;
+}
+/* font-size это размер шрифта*/
+.astana {color: green}
+pre {
+  font-size:10pt;
+  color: red;
+  font-family: 'Gugi', cursive;
+}
+img {
+  width: 450px;
+  height: 250px;
+}
